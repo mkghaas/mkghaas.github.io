@@ -8,8 +8,8 @@
 
 <body bgcolor="white" text="black">
 
-<!-- <IMG SRC="animation.gif">
- -->
+<IMG SRC="animation.gif">
+
 </body>
 
 </html>
