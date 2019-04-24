@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title> Gait Synthesis For Underwater Snake Robot </title>
+Gait Synthesis For Underwater Snake Robot
 </head>
 
 <h1> Gait Synthesis For Underwater Snake Robot </h1>
